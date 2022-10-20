@@ -1,0 +1,46 @@
+
+.col-form-label {
+    display: none !important;
+}
+
+.form-group{
+    display: inline-block;
+}
+
+#fgroup_id_buttonar{
+    display: block;
+}
+
+.mform{
+    height: 1000px;
+}
+
+.content {
+    display: block;
+    max-height: 1000px;
+}
+
+#fitem_id_p_course{
+    margin-right: -83px !important;
+}
+
+#id_p_course{
+    width: 280px;
+}
+
+#id_error_p_course{
+    width: 240px;
+}
+
+.parametrs{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.importto{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+
